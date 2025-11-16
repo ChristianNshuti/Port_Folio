@@ -18,6 +18,6 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/ChristianNshuti/Port_Folio
-cd <YOUR_PROJECT_FOLDER>
+cd Port_Folio
 npm install
 npm run dev
